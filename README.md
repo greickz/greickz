@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**greickz/greickz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=23&lines=Olá,+eu+sou+o+Vinícius+Greick;Conheça+o+meu+perfil+e+projetos!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ViniciusGreick = {
+  paixoes: ["dados", "analytics", "tomada de decisão"],
+  foco: ["análise de dados", "pesquisa cient", "engenharia de IA"],
+  techCommunities: {
+    UNISenai: "Tecnólogo em Ciêcia de Dados",
+    Senai: "Técnico em Desenvolvimento de Sistemas",
+    Sesi: "Ensino Médio"
+  }
+}
+```
+
+<div>
+<h2 align="center">Ferramentas</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,css,python,mysql,mongodb" />
+</p>
+</div>
+
+##
+
+<div align="center" height="30">
+  <a href="https://www.linkedin.com/in/vinícius-greick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="sgreicks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo"/></a>
+</div>
+
