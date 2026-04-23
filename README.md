@@ -8,7 +8,7 @@
 const ViniciusGreick = {
   paixoes: ["dados", "analytics", "tomada de decisão"],
   foco: ["análise de dados", "pesquisa cient", "engenharia de IA"],
-  techCommunities: {
+  formacao: {
     UNISenai: "Tecnólogo em Ciêcia de Dados",
     Senai: "Técnico em Desenvolvimento de Sistemas",
     Sesi: "Ensino Médio"
